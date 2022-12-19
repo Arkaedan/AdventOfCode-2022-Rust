@@ -1,1 +1,1 @@
-# AdventOfCode-2022-Rust
+# Advent Of Code - 2022 - Rust
